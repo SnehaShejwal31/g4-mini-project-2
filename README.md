@@ -1,9 +1,5 @@
 
 
-## <p align="center"> <a href="https://lakbay.quendp.com/"> <---------- VIEW LIVE WEBSITE ----------></a> </p>
-
-<br>
-
 ## 📷 Preview Image
 
 <p align="center"> <img width="100%" src="./README/img1.jpg" /> </p>
