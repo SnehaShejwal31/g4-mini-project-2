@@ -1,4 +1,4 @@
-# Lakbay Travel Agency - Mini Project 2
+
 
 ## <p align="center"> <a href="https://lakbay.quendp.com/"> <---------- VIEW LIVE WEBSITE ----------></a> </p>
 
